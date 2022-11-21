@@ -7,3 +7,17 @@ print('hello')
 #외부 라이브러리 사용(데이터 분석-판다스)
 #외부 라이브러리 사용(통계 = numpy)
 #시각화 (matplotlib)
+
+
+a = 10
+b = 20
+print (a+b)
+
+# num1 = int(input('input num1 : '))
+# num2 = int(input('input num2 : '))
+# f-string 
+# print(f"{num1} + {num2} ={num1+num2}")
+
+for i in range(1,11):
+
+    print(i)
